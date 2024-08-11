@@ -1,0 +1,7 @@
+obsws-python
+keyboard
+pyautogui
+flask_socketio
+opencv-python
+flask
+keyboard
